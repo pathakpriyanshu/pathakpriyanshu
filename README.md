@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: priyanshu pathak](https://img.shields.io/badge/-priyanshupathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathakpriyanshu/)](https://www.linkedin.com/in/pathakpriyanshu/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Thaiane](https://img.shields.io/github/followers/pathakpriyanshu?label=follow&style=social)](https://github.com/pathakpriyanshu)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

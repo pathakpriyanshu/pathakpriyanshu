@@ -3,7 +3,7 @@
 <p><em>Passionate about Data Science & GenAI<a href="http://www.unb.br">Currently Studying at Delhi Technological Universit</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">  width="30"> 
 </em></p>
 
-[![Linkedin: priyanshu pathak](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathakpriyanshu/)](https://www.linkedin.com/in/pathakpriyanshu/)
+[![Linkedin: priyanshu pathak](https://img.shields.io/badge/-priyanshupathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathakpriyanshu/)](https://www.linkedin.com/in/pathakpriyanshu/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 

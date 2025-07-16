@@ -13,7 +13,7 @@
 class Me():
   pronouns: "He" | "him"
   tools: ['GenAI', 'AgenticAI', 'LangChain', 'LangGraph', 'Vector Store', 'GraphRAG', 'WebScrapping', 'Data Analysis', 'EDA']
-  Bachelor's: Engineering
+  Bachelor: Engineering
   
 ```
 

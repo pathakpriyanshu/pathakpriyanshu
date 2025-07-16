@@ -10,8 +10,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```Python
-class Me(TypedDict):
-  name:'priyanshu'
+class Me():
+  pronouns: "He" | "him"
+  tools: ['GenAI', 'AgenticAI', 'LangChain', 'LangGraph', 'Vector Store', 'GraphRAG', 'WebScrapping', 'Data Analysis', 'EDA']
+  Bachelor's: Engineering
+  
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>

@@ -4,7 +4,7 @@
 
 <p><em>Passionate about Data Science & GenAI, Currently Studying at <a href="https://dtu.ac.in">Delhi Technological University</a></em><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
-<p><em>Data Science Intern at <a href="https://www.indium.tech/">Indium <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHqwDXrNmFvEA/company-logo_200_200/company-logo_200_200/0/1697009062300/indiumsoftware_logo?e=2147483647&v=beta&t=KSPYXQvZgNvLvQXOeI5_ZJLNjGGFRLOWrKN8TJdPGl8" width="30"></a></em></p>
+<p><em>Data Science Intern at <a href="https://www.indium.tech/">Indium <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Findiumsoftware&psig=AOvVaw2hOwssu-PYwkjFOo5V0dKj&ust=1752813271838000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiD7LeIw44DFQAAAAAdAAAAABAE" width="30"></a></em></p>
 
 [![Linkedin: priyanshu pathak](https://img.shields.io/badge/-priyanshupathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathakpriyanshu/)](https://www.linkedin.com/in/pathakpriyanshu/)
 [![GitHub](https://img.shields.io/badge/-pathakpriyanshu-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/pathakpriyanshu)](https://github.com/pathakpriyanshu)

@@ -4,7 +4,7 @@
 
 <p><em>Passionate about Data Science & GenAI, Currently Studying at <a href="https://dtu.ac.in">Delhi Technological University</a></em><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
-<p><em>Data Science Intern at <a href="https://www.indium.tech/">Indium  width="30"></a></em></p>
+<p><em>Data Science Intern at <a href="https://www.indium.tech/">Indium></a></em></p>
 
 [![Linkedin: priyanshu pathak](https://img.shields.io/badge/-priyanshupathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pathakpriyanshu/)](https://www.linkedin.com/in/pathakpriyanshu/)
 [![GitHub](https://img.shields.io/badge/-pathakpriyanshu-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/pathakpriyanshu)](https://github.com/pathakpriyanshu)

@@ -38,7 +38,7 @@ class DataScientist:
         ]
     
     def current_focus(self):
-        return "Learning cutting-edge GenAI technologies and building impactful data science projects"
+        return "Learning integration of OpenAI sdk with Databricks MCP server."
 ```
 
 ### 🛠️ Tech Stack & Tools:
